@@ -74,4 +74,3 @@ for path in pathlib.Path(input).iterdir():
 
     print(file_name,' -> ', new_filename)
 
-    break
